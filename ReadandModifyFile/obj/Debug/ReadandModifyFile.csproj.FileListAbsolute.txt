@@ -1,0 +1,6 @@
+C:\Users\jinsuli\source\repos\ReadandModifyFile\ReadandModifyFile\obj\Debug\ReadandModifyFile.csproj.AssemblyReference.cache
+C:\Users\jinsuli\source\repos\ReadandModifyFile\ReadandModifyFile\obj\Debug\ReadandModifyFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\jinsuli\source\repos\ReadandModifyFile\ReadandModifyFile\obj\Debug\ReadandModifyFile.FileModifier.resources
+C:\Users\jinsuli\source\repos\ReadandModifyFile\ReadandModifyFile\obj\Debug\ReadandModifyFile.Properties.Resources.resources
+C:\Users\jinsuli\source\repos\ReadandModifyFile\ReadandModifyFile\obj\Debug\ReadandModifyFile.csproj.GenerateResource.cache
+C:\Users\jinsuli\source\repos\ReadandModifyFile\ReadandModifyFile\obj\Debug\ReadandModifyFile.csproj.CoreCompileInputs.cache
